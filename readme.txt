@@ -59,9 +59,9 @@ Unfortunately, SEO data is not moved during Gambio migration. Therefore, be read
 Yes, Cart2Cart supports migration of reviews while moving to and from WooCommerce. Moreover, review ratings will be moved together with reviews.
 
 == Screenshots ==
-screenshot-1.jpg
-screenshot-2.jpg
-screenshot-3.jpg
+1. screenshot-1.jpg
+2. screenshot-2.jpg
+3. screenshot-3.jpg
 
 == Changelog ==
 Initial commit = 1.0.0 =*
